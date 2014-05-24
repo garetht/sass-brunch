@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "progeny": "~0.1.1",
-    "node-sass": "git@github.com:garetht/node-sass.git",
+    "node-sass": "git://github.com/garetht/node-sass.git",
     "promise": "~3.2.0"
   },
   "devDependencies": {
